@@ -2,13 +2,14 @@
 title: Greek Grammar
 author: Siddharth Shah
 date: 5th January 2022
+nav_order: 2
 ---
 
 # Nouns
 
-|                | Masculine              || Feminine               || Neuter                 ||
-| 1st Decl.      | Singular  | Plural      | Singular  | Plural      | Singular  | Plural      |
-| ---------      | ---       | ---         | ---       | ---         | ---       | ---         |
+| 1st Decl.      |       Masculine        ||       Feminine         ||        Neuter          ||
+| Case           | Singular  | Plural      | Singular  | Plural      | Singular  | Plural      |
+| ---            | ---       | ---         | ---       | ---         | ---       | ---         |
 | **Nominative** | ό λογος   | οί λογοι    | ή τιμη    | αι τιμαί    | το δωρον  | τα δωρα     |
 | **Vocative**   | ώ λογε    | ώ λογοι     | ώ τιμη    | ώ τιμη      | ώ δωρον   | ώ δωρα      |
 | **Accusative** | τον λογον | τους λογους | την τιμην | των τιμων   | το δωρον  | τα δωρα     |
