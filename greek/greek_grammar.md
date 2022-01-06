@@ -1,7 +1,7 @@
 ---
-title: Greek Grammar
+title: Grammar
 author: Siddharth Shah
-date: 5th January 2022
+date: 6th January 2022
 parent: Greek
 ---
 
