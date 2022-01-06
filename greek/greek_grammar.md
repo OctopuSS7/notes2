@@ -1,5 +1,5 @@
 ---
-title: Grammar
+title: Greek Grammar
 author: Siddharth Shah
 date: 6th January 2022
 parent: Greek
