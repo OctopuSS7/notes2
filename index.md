@@ -2,6 +2,7 @@
 title: Notes
 author: Siddharth Shah
 date: 5th January 2022
+nav-order: 1
 ---
 
 # Notes
@@ -14,13 +15,13 @@ date: 5th January 2022
   5. [Programming Constructs](comp_sci/programming_constructs)
   6. [SQL Statements](comp_sci/sql_statements)
 
-## Latin
-  1. [Vocabulary](./latin/latin_vocabulary.md)
-  2. [Grammar](./latin/latin_grammar.md)
-
 ## Greek
   1. [Vocabulary](./greek/greek_vocabulary.md)
   2. [Grammar](./greek/greek_grammar.md)
+
+## Latin
+  1. [Vocabulary](./latin/latin_vocabulary.md)
+  2. [Grammar](./latin/latin_grammar.md)
 
 ## French
   1. [Vocabulary](./french/french_vocabulary.md)

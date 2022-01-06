@@ -2,11 +2,12 @@
 title: Storage Units
 author: Siddharth Shah
 date: 6th January 2022
+nav-order: 2
 ---
 
-<aside>
+```
 A bit is the smallest storage unit possible on a computer. It has 2 possible values: ON and Off, usually represented by 0 and 1, or True and False.
-</aside>
+```
 
 | 1 nibble         | 4 bits             |
 | ---              | ---                |
@@ -20,7 +21,7 @@ A bit is the smallest storage unit possible on a computer. It has 2 possible val
 | 1 exabyte (EB)   | 1000 petabytes     |
 | 1 zettabyte (ZB) | 1000 exabytes      |
 
-::1 kB is 1000 bytes, but 1 kibibyte is 1024 bytes.::
+1 kB is 1000 bytes, but 1 kibibyte is 1024 bytes.
 - 1 byte is 8 bits.
 - 1 kibibyte (KiB) is 1024 bytes.
 - 1 mebibyte (MiB) is 1024 kibibytes.
