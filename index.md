@@ -2,8 +2,6 @@
 title: Notes
 author: Siddharth Shah
 date: 5th January 2022
-has-children: false
-nav-order: 1
 ---
 
 # Notes

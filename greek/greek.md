@@ -2,8 +2,7 @@
 title: Greek
 author: Siddharth Shah
 date: 6th January 2022
-nav-order: 3
-has-children: true
+has_children: true
 ---
 
 This is the greek page.

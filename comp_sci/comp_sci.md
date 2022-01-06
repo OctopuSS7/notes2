@@ -2,7 +2,6 @@
 title: Computer Science
 author: Siddharth Shah
 date: 6th January 2022
-nav-order: 2
 has_children: true
 ---
 
