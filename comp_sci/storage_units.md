@@ -2,6 +2,7 @@
 title: Storage Units
 author: Siddharth Shah
 date: 6th January 2022
+parent: Computer Science
 nav-order: 2
 ---
 
