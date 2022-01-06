@@ -2,6 +2,7 @@
 title: Greek Grammar
 author: Siddharth Shah
 date: 5th January 2022
+parent: Greek
 nav-order: 3
 ---
 
