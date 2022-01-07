@@ -1,13 +1,10 @@
 ---
 title: Storage Units
 author: Siddharth Shah
-date: 6th January 2022
 parent: Computer Science
 ---
 
-```
 A bit is the smallest storage unit possible on a computer. It has 2 possible values: ON and Off, usually represented by 0 and 1, or True and False.
-```
 
 | 1 nibble         | 4 bits             |
 | ---              | ---                |
