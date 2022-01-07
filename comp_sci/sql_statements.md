@@ -1,3 +1,11 @@
+---
+title: SQL Statements
+author: Siddharth Shah
+parent: Computer Science
+---
+
+# SQL Statements
+
 **Key Points**
 - SQL stand for Structured Query Language
 - In SQL, `<>` is the inequality symbol (≠)
