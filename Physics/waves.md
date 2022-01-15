@@ -2,6 +2,7 @@
 title: Waves
 author: Siddharth Shah
 parent: Physics
+usemathjax: true
 ---
 
 # Waves
