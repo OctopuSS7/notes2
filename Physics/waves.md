@@ -17,7 +17,7 @@ There are 2 wave types:
 
 All electromagnetic waves are transverse waves, and sound waves are longitudinal waves.
 
-![](./‪wave.svg)
+![](wave_diagram.svg)
 
 # Symbols
 
@@ -32,13 +32,15 @@ $$T$$: Time period
 
 # Equations
 
+## Wave Equation
+
 Symbol Equation: $$V = f\lambda$$
 
 With Units: $$V \text{ (m/s)} = f \text{ (Hz)} \cdot \lambda \text{ (m)}$$
 
 Word Equation: $$\text{Speed} = \text{Frequency} \times \text{Wavelength}$$
 
-
+## Frequency Formula
 
 Symbol Equation: $$f = \frac{1}{T}$$
 
