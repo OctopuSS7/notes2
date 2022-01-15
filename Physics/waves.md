@@ -4,6 +4,8 @@ author: Siddharth Shah
 parent: Physics
 ---
 
+# Waves
+
 Waves are a series of oscillations, sometimes transporting energy from place to place. Common examples include: Ultraviolet, Visible Light and Sound Waves. 
 
 There are 2 wave types:
@@ -12,4 +14,21 @@ There are 2 wave types:
 
 All electromagnetic waves are transverse waves, and sound waves are longitudinal waves.
 
-![](‪wave.svg)
+![](./‪wave.svg)
+
+# Symbols
+
+$\lambda$: wavelength
+$V$: speed
+$f$: Frequency
+$T$: Time period
+
+# Equations
+
+$V = f\lambda$
+$V \text{ (m/s)} = f \text{ (Hz)} \cdot \lambda \text{ (m)}$
+$\text{Speed} = \text{Frequency} \times \text{Wavelength}$
+
+$f = \frac{1}{T}$
+$f \text{ (Hz)} = \frac{1}{T \text{ (secs)}}$
+$\text{Frequency} = \frac{\text{1}}{\text{Wavelength}}$
