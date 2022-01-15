@@ -5,6 +5,8 @@ parent: Physics
 usemathjax: true
 ---
 
+{% include mathjax.html %}
+
 # Waves
 
 Waves are a series of oscillations, sometimes transporting energy from place to place. Common examples include: Ultraviolet, Visible Light and Sound Waves. 
