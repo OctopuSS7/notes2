@@ -18,7 +18,7 @@ All electromagnetic waves are transverse waves, and sound waves are longitudinal
 
 ![](wave_diagram.svg)
 
-# Symbols
+## Symbols
 
 $$\lambda$$: Wavelength
 
@@ -29,9 +29,9 @@ $$f$$: Frequency
 $$T$$: Time period
 
 
-# Equations
+## Equations
 
-## Wave Equation
+### Wave Equation
 
 Symbol Equation: $$V = f\lambda$$
 
@@ -39,7 +39,7 @@ With Units: $$V \text{ (m/s)} = f \text{ (Hz)} \cdot \lambda \text{ (m)}$$
 
 Word Equation: $$\text{Speed} = \text{Frequency} \times \text{Wavelength}$$
 
-## Frequency Formula
+### Frequency Formula
 
 Symbol Equation: $$f = \frac{1}{T}$$
 
