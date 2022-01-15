@@ -18,17 +18,17 @@ All electromagnetic waves are transverse waves, and sound waves are longitudinal
 
 # Symbols
 
-$\lambda$: wavelength
-$V$: speed
-$f$: Frequency
-$T$: Time period
+$$\lambda$$: wavelength
+$$V$$: speed
+$$f$$: Frequency
+$$T$$: Time period
 
 # Equations
 
-$V = f\lambda$
-$V \text{ (m/s)} = f \text{ (Hz)} \cdot \lambda \text{ (m)}$
-$\text{Speed} = \text{Frequency} \times \text{Wavelength}$
+$$V = f\lambda$$
+$$V \text{ (m/s)} = f \text{ (Hz)} \cdot \lambda \text{ (m)}$$
+$$\text{Speed} = \text{Frequency} \times \text{Wavelength}$$
 
-$f = \frac{1}{T}$
-$f \text{ (Hz)} = \frac{1}{T \text{ (secs)}}$
-$\text{Frequency} = \frac{\text{1}}{\text{Wavelength}}$
+$$f = \frac{1}{T}$$
+$$f \text{ (Hz)} = \frac{1}{T \text{ (secs)}}$$
+$$\text{Frequency} = \frac{\text{1}}{\text{Wavelength}}$$
