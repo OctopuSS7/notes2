@@ -20,8 +20,9 @@ Sound waves are longitudinal waves that are caused by vibrations. They are trans
 
 Vibration: A backwards and forwards movement that transmits sound.
 
-Pitch -> Frequency
-Volume -> Amplitude
+Pitch ⟶ Frequency
+
+Volume ⟶ Amplitude
 
 ## Class Questions
 
