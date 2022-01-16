@@ -4,6 +4,8 @@ author: Siddharth Shah
 parent: Physics
 ---
 
+# Resonance
+
 When the driving frequency matches the natural frequency of an oscillation, resonance occurs and the amplitude will be a maximum.
 
 The **Natural Frequency** is the frequency at which an object oscillates at when left alone.
