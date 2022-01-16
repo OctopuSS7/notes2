@@ -24,25 +24,40 @@ Pitch ⟶ Frequency
 
 Volume ⟶ Amplitude
 
-## Class Questions
+## Example Questions
 
-Why does sound travel faster in warmer air?
+**Question:** Why does sound travel faster in warmer air?
 
-The air particles have more kinetic energy, so there are more collisions.
+**Answer:** The air particles have more kinetic energy, so there are more collisions.
 
 ---
 
-How far away is a thundercloud if the rumble reaches you 3 seconds after the lightning flash?
+**Question:** How far away is a thundercloud if the rumble reaches you 3 seconds after the lightning flash?
 
-$$\begin{flalign} V &= \frac{d}{t} \\ 
-d &= Vt \\ 
-d &= 343 \times 3 \\ 
+$$\begin{align*} 
+V &= \frac{d}{t} &\\ 
+d &= Vt &\\ 
+d &= 343 \times 3 &\\ 
 &\approx 1\text{km} 
-\end{flalign}$$
+\end{align*}$$
 
-$$\begin{equation}
-\begin{split}
-A & = \frac{\pi r^2}{2} \\
- & = \frac{1}{2} \pi r^2
-\end{split}
-\end{equation}$$
+**Answer:** 1km
+
+---
+
+**Question:** Why does Indiana Jones put his ear to the ground when listening for approaching horses?
+
+**Answer:** Because sound travels faster and better through solids that through air.
+
+## Ultrasound
+
+Definition: Sound at higher frequencies than the human hearing range.
+
+Ultrasouns doesn't spread out as much as it has a lower wavelength. This means that it directly reflects, so it has a clearer echo. By measuring the time that it takes for the sound to return, you can find the distance objects are from you.
+
+### Uses
+
+
+While X-Rays are clearer, X-Rays produce ionising radiation which can be harmful for infants.
+
+Ultrasound can be used for breaking up and destroying kidney stones, for cleaning jewelry in a fluid, and for measuring distances inside the body.
