@@ -34,4 +34,8 @@ The air particles have more kinetic energy, so there are more collisions.
 
 How far away is a thundercloud if the rumble reaches you 3 seconds after the lightning flash?
 
-$$\begin{aligned} V &= \frac{d}{t} \\ d &= Vt \\ d &= 343 \times 3 \\ &\approx 1\text{km} \end{aligned}$$
+$$\begin{align*} V &= \frac{d}{t} \\ 
+d &= Vt \\ 
+d &= 343 \times 3 \\ 
+&\approx 1\text{km} 
+\end{align*}$$

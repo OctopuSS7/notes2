@@ -16,7 +16,7 @@ There are 2 wave types:
 
 All electromagnetic waves are transverse waves, and sound waves are longitudinal waves.
 
-![](wave_diagram.svg)
+![](../images/wave_diagram.svg)
 
 ## Symbols
 

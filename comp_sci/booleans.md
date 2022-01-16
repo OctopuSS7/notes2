@@ -19,7 +19,7 @@ parent: Computer Science
 
 ## EXAMPLE: Truth Tables for AND, OR, XOR and NOT
 
-![Untitled](../images/booleans.png)
+![](../images/booleans.png)
 
 The symbol for the:
 - NOT operator is `¬`
