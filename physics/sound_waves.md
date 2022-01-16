@@ -39,3 +39,10 @@ d &= Vt \\
 d &= 343 \times 3 \\ 
 &\approx 1\text{km} 
 \end{align*}$$
+
+$$\begin{equation}
+\begin{split}
+A & = \frac{\pi r^2}{2} \\
+ & = \frac{1}{2} \pi r^2
+\end{split}
+\end{equation}$$
