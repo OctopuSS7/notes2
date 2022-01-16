@@ -55,7 +55,7 @@ Definition: Sound at higher frequencies than the human hearing range.
 
 Ultrasouns doesn't spread out as much as it has a lower wavelength. This means that it directly reflects, so it has a clearer echo. By measuring the time that it takes for the sound to return, you can find the distance objects are from you.
 
-### Uses
+### Uses of Ultrasound
 
 
 While X-Rays are clearer, X-Rays produce ionising radiation which can be harmful for infants.
