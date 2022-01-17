@@ -6,9 +6,9 @@ parent: French
 
 # Future and Conditional Tense
 
-## Future
+## Future Tense
 
-For regular verbs, use the infinitive as the stem, and add the future tense endings.
+For regular verbs, use the infinitive as the stem, and add the future tense endings. For -re verbs, remove the e from the infinitive stem.
 
 | Je   | -ai  |
 | Tu   | -as  |
@@ -17,7 +17,7 @@ For regular verbs, use the infinitive as the stem, and add the future tense endi
 | Vous | -ez  |
 | Ils  | -ont |
 
-The following verbs are irregular in the imperfect tense.
+The following verbs are irregular in the future tense.
 
 | Être | Ses |
 | Aller | Ir |
@@ -31,3 +31,14 @@ The following verbs are irregular in the imperfect tense.
 | Mourir | Mourr |
 | Courir | Courr |
 | Pouvoir | Pourr |
+
+## Conditional Tense
+
+For the conditional tense, use the future stem, and add the imperfect endings.
+
+| Je   | -ais   |
+| Tu   | -ais   |
+| Il   | -ait   |
+| Nous | -ions  |
+| Vous | -iez   |
+| Ils  | -aient |
