@@ -1,5 +1,5 @@
 ---
-title: Scale Factors
+title: Formulae
 author: Siddharth Shah
 parent: Maths
 ---
