@@ -14,13 +14,10 @@ Direct and Indirect pronouns must be used before the verb in a sentence in the f
 | Y - there           |                  |                |                    |
 | En - of them / some |                  |                |                    |
 
-Je le connais. - I know him.
-
-Nous la buvons. - We’re drinking it.
-
-Tu m’aimes? - Do you love me?
-
-Elles vous voient. - They see you.
+- Je le connais. - I know him.
+- Nous la buvons. - We’re drinking it.
+- Tu m’aimes? - Do you love me?
+- Elles vous voient. - They see you.
 
 # All Personal Pronouns
 
