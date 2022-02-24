@@ -1,10 +1,12 @@
 ---
-title: Direct, Indirect and Personal Pronouns
+title: Direct, Indirect and Subject Pronouns
 author: Siddharth Shah
 parent: French
 ---
 
 # Direct and Indirect Pronouns
+
+Direct and Indirect pronouns must be used before the verb in a sentence in the following order:
 
 | Me - (to) me        | Te - (to) you sg | Nous - (to) us | Vous - (to) you pl |
 | Le - him / it       | La - her / it    | Les - them     |                    |
@@ -20,7 +22,7 @@ Tu m’aimes? - Do you love me?
 
 Elles vous voient. - They see you.
 
-# Personal Pronouns
+# All Personal Pronouns
 
 |                | Subject          | Direct Object   | Indirect Object  |
 |                | --------         | -------------   | ---------------  |
